@@ -1,0 +1,33 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+  
+}
+
+.input-span {
+
+    text-align: center;
+    border-radius: 8px;
+    padding: 5px;
+    border: 1px solid blue
+}
+
+.include-span {
+    margin-top: 10px;
+}
+.select {
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 7px;
+    border: 1px solid #1abc9c;
+}
+.select:hover {
+    background-color: #1abc9c;
+    color: white;
+}

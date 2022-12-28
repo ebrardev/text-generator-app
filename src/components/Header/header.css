@@ -1,5 +1,11 @@
 p {
     font-size: 50px;
-    font-weight: 100;
-    color: lightblue
+    font-weight: bold;
+    color: #1abc9c;
+
+}
+hr{
+    max-width: 1000px;
+    border: 1px solid #1abc9c;
+
 }

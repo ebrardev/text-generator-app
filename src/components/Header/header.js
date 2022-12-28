@@ -5,7 +5,7 @@ function header() {
   return (
     <>
      <p>  Text Generator App</p>
- 
+       <hr/>
     </>
   )
 }
