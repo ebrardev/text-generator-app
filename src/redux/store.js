@@ -6,6 +6,6 @@
     export const store = configureStore({
 
         reducer:{
-            store: textSlice,
+            text: textSlice,
         }
     })
